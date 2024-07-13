@@ -35,14 +35,6 @@ Tecnologias Utilizadas: HTML, CSS, JavaScript.
 Contribuição
 Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou pull requests para melhorias ou correções.
 
-Licença
-Este projeto está licenciado sob a MIT License.
-
-bash
-Copiar código
-
-Esse README.md fornece uma visão geral do projeto GeekStyle, descreve sua estrutura, como usá-lo e convida à contribuição, seguindo as melhores práticas comuns em projetos de código aberto.
-
 
 
 
