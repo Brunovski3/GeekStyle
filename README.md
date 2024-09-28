@@ -19,7 +19,7 @@ O projeto é estruturado da seguinte forma:
 1. Clone este repositório:
 
    ```bash
-   git clone https://github.com/seu-usuario/geekstyle.git
+   git clone https://github.com/Brunovski3/geekstyle.git
 Abra o arquivo index.html em seu navegador preferido para visualizar a loja.
 
 Navegue pela loja, adicione produtos ao carrinho clicando no botão "Adicionar ao Carrinho" em cada produto.
